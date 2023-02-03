@@ -39,7 +39,7 @@ function calculate(){
         theirName.value = " ";
         yourName.value = " ";
         }
-        output.innerText = name1 + " " + name2 + " are " + lovePercent + "% in love."
+        output.innerText = name1 + " " + name2 + " are " + lovePercent + "% in love <3."
     }
 }
 
